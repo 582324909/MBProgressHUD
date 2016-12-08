@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "C41D26401DF93D42000AC2E6"
-               BuildableName = "MBProgressHUD.app"
-               BlueprintName = "MBProgressHUD"
-               ReferencedContainer = "container:MBProgressHUD.xcodeproj">
+               BlueprintIdentifier = "0218D4AE44C24C17885B58C7E9BB577D"
+               BuildableName = "libPods-MBProgressHUD.a"
+               BlueprintName = "Pods-MBProgressHUD"
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -29,15 +29,6 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C41D26401DF93D42000AC2E6"
-            BuildableName = "MBProgressHUD.app"
-            BlueprintName = "MBProgressHUD"
-            ReferencedContainer = "container:MBProgressHUD.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -51,16 +42,15 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
+      <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C41D26401DF93D42000AC2E6"
-            BuildableName = "MBProgressHUD.app"
-            BlueprintName = "MBProgressHUD"
-            ReferencedContainer = "container:MBProgressHUD.xcodeproj">
+            BlueprintIdentifier = "0218D4AE44C24C17885B58C7E9BB577D"
+            BuildableName = "libPods-MBProgressHUD.a"
+            BlueprintName = "Pods-MBProgressHUD"
+            ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
-      </BuildableProductRunnable>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </LaunchAction>
@@ -70,16 +60,6 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <BuildableProductRunnable
-         runnableDebuggingMode = "0">
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "C41D26401DF93D42000AC2E6"
-            BuildableName = "MBProgressHUD.app"
-            BlueprintName = "MBProgressHUD"
-            ReferencedContainer = "container:MBProgressHUD.xcodeproj">
-         </BuildableReference>
-      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
